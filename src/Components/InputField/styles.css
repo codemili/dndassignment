@@ -1,0 +1,19 @@
+.search-form {
+  /* we'll re-use this number, so DRYing up */
+  --searchButtonWidth: 75px;
+
+  overflow: hidden;
+  position: relative;
+}
+
+.search-input {
+  /* take full width of form */
+  width: 100%;
+}
+
+.submit-button {
+   display: flex;
+   width: 100%;
+   justify-content: center;
+   margin-top: 10px;
+}
