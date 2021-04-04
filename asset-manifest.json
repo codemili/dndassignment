@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/dnd-assignment/static/css/main.2dd0e921.chunk.css",
+    "main.js": "/dnd-assignment/static/js/main.fa5deaab.chunk.js",
+    "main.js.map": "/dnd-assignment/static/js/main.fa5deaab.chunk.js.map",
+    "runtime-main.js": "/dnd-assignment/static/js/runtime-main.4520f947.js",
+    "runtime-main.js.map": "/dnd-assignment/static/js/runtime-main.4520f947.js.map",
+    "static/js/2.586e359f.chunk.js": "/dnd-assignment/static/js/2.586e359f.chunk.js",
+    "static/js/2.586e359f.chunk.js.map": "/dnd-assignment/static/js/2.586e359f.chunk.js.map",
+    "static/js/3.829ac357.chunk.js": "/dnd-assignment/static/js/3.829ac357.chunk.js",
+    "static/js/3.829ac357.chunk.js.map": "/dnd-assignment/static/js/3.829ac357.chunk.js.map",
+    "index.html": "/dnd-assignment/index.html",
+    "static/css/main.2dd0e921.chunk.css.map": "/dnd-assignment/static/css/main.2dd0e921.chunk.css.map",
+    "static/js/2.586e359f.chunk.js.LICENSE.txt": "/dnd-assignment/static/js/2.586e359f.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/dnd-assignment/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4520f947.js",
+    "static/js/2.586e359f.chunk.js",
+    "static/css/main.2dd0e921.chunk.css",
+    "static/js/main.fa5deaab.chunk.js"
+  ]
+}
